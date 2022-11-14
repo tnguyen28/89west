@@ -1,5 +1,5 @@
-import { Layout } from "../components/Layout.server";
-import FeaturedCollections from "../components/FeaturedCollections.server";
+import { Layout } from "../shop-components/Layout.server";
+import FeaturedCollections from "../shop-components/FeaturedCollections.server";
 
 import { Suspense } from "react";
 
